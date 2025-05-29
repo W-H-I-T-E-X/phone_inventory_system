@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 
 # Load template image
-i = Image.open("/home/whitex/cashphones/b2.png")
+i = Image.open("b2.png")
 i = i.convert("RGB")
 draw = ImageDraw.Draw(i)
 
