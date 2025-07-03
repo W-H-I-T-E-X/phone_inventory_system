@@ -3092,7 +3092,7 @@ case $n in
 		;;
 	8)
 		clear
-		python /home/whitex/cashphones/b.py
+		python b3.py
 		;;
 	9)
 		clear
